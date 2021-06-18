@@ -1,0 +1,53 @@
+/* font-family: 'Lusitana', serif;
+font-family: 'Noto Sans TC', sans-serif; */
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+}
+.container-fluid{
+    padding: 2% 10%;
+}
+h1{
+    /* font-family: 'Lusitana', serif; */
+    
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+}
+/* Header Section */
+#header{
+    background-color: #2F5D62;
+    color: #DFEEEA;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.row{
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+#header .container-fluid{
+    padding-bottom: 0;
+}
+
+
+.title-image{
+    display: inline-block;
+    width: 70%;
+}
+
+/* Products Section */
+#products{
+    padding: 6% 10%;
+    background-color: #DFEEEA;
+}
+.card{
+    padding: 0;
+}
+.btn{
+    background-color: #5E8B7E;
+}
+.btn:hover{
+    background-color: #2F5D62;
+}
